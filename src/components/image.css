@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(26, 219, 233);
+}
+.imges.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
